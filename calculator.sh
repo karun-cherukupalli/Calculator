@@ -1,9 +1,10 @@
-#!/bin/bash
+i#!/bin/bash
 
 # Simple Calculator Script
 
 echo "Enter first number:"
 read num2
+
 
 echo "Enter second number:"
 read num4
